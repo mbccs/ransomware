@@ -12,6 +12,7 @@
 *.osiris
 *.cryptowall
 *.enciphered
+*.cryptolocker
 *.cryp1
 *.locked
 *.breaking_bad
@@ -134,6 +135,7 @@
 *.lovewindows
 *.VforVendetta
 *.stn
+*.rmd
 *.PEGS1
 *.theworldisyours
 *.sage
