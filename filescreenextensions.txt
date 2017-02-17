@@ -55,7 +55,6 @@
 *.MERRY
 *.legion
 *.pzdc
-*.abc
 *.odcodc
 *.encrypted
 *.cerber2
