@@ -56,7 +56,7 @@
 *.legion
 *.pzdc
 *.odcodc
-*.encrypted
+*.enpted
 *.cerber2
 *.PoAr2w
 *.1txt
@@ -107,7 +107,7 @@
 *.kimcilware
 *.rekt
 *.rip
-*.R16m01d05
+*.R16m*
 *.nuclear55
 *.a5zfn
 *.razy
@@ -155,3 +155,16 @@
 *.gefickt
 *.bript
 *.serpent
+*.obleep
+*.0x0
+*.1999
+*.bleep
+*.ctb1
+*.ctb2
+*.darkness
+*.ecc
+*.exx
+*.ezz
+*.frtrss
+*.omg!
+*.toxcrypt
