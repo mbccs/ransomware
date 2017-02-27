@@ -65,7 +65,6 @@
 *.rdm
 *.magic
 *.btc
-*.bin
 *.bitstak
 *.darkness
 *.purge
