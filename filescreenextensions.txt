@@ -168,3 +168,4 @@
 *.omg!
 *.toxcrypt
 *.WNCRY
+*.u6hv1
