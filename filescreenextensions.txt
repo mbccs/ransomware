@@ -169,3 +169,6 @@
 *.toxcrypt
 *.WNCRY
 *.u6hv1
+infpub.dat
+cscc.dat
+dispci.exe
