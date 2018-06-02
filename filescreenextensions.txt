@@ -173,3 +173,4 @@ infpub.dat
 cscc.dat
 dispci.exe
 *.rapid
+*tuta.io
